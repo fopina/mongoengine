@@ -1,0 +1,2 @@
+-e git+https://github.com/fopina/tinymongo@0.2.0+mongoengine-improvements#egg=tinymongo
+-e git+https://github.com/fopina/mongoengine@0.15.0+tinymongo#egg=mongoengine
